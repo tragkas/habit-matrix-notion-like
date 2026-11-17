@@ -1,0 +1,6 @@
+{
+  "name": "Notion Habit Matrix & SQLite Engine",
+  "description": "Executive habit performance dashboard with in-browser SQLite WASM persistence, portable .sqlite backup, and Notion dark aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
